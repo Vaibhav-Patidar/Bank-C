@@ -27,6 +27,8 @@ The program allows a user to:
   ./bank_v1   # Linux/Mac
   bank_v1.exe # Windows
 
+---
+
 ## Code in Action
 
 <img width="565" height="726" alt="image" src="https://github.com/user-attachments/assets/cd006735-2630-43e4-9f60-0a9fc0bd1056" />
