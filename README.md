@@ -31,7 +31,7 @@ The program allows a user to:
 
 ## Code in Action
 
-<img width="565" height="726" alt="image" src="https://github.com/user-attachments/assets/cd006735-2630-43e4-9f60-0a9fc0bd1056" />
+<img width="552" height="663" alt="image" src="https://github.com/user-attachments/assets/3c392a21-f056-4513-9b49-eecde0abf470" />
 
 
 The upgraded version of this banking system will come soon.......
