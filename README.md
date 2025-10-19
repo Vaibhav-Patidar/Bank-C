@@ -29,7 +29,7 @@ The program allows a user to:
 
 ---
 
-## Code in Action
+## Code in Action 
 
 <img width="552" height="663" alt="image" src="https://github.com/user-attachments/assets/3c392a21-f056-4513-9b49-eecde0abf470" />
 
