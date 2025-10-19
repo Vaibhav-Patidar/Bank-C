@@ -8,7 +8,7 @@ It demonstrates the use of:
 
 The program allows a user to:
 1. Deposit money  
-2. Check balance  
+2. Check balance 
 3. Withdraw money  
 4. Exit the system  
 
